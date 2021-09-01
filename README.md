@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+We're committed to helping nonprofits in the Twin Cities area. Browse our project repos >> 
+
+As of now:
+
+- 🔭 We're currently working on finishing our project up with Cool Moms Dance Too, a react-native card game application. 
+- 📍 Located in Northfield, MN.
+- 💻 You can access our chapter website at https://carleton.hack4impact.org. 
+- ✉️ Email us at carleton@hack4impact.org
 <!--
 **h4icarleton/h4icarleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
